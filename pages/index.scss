@@ -1,0 +1,18 @@
+$bg: #3c3c3c;
+$secondary-bg: #5d768c;
+$footer: rgb(71, 71, 68);
+:root {
+    background-color: $bg;
+}
+.navbar_bg {
+    background-color: $secondary-bg;
+}
+.secondary {
+    background-color: $footer;
+}
+.navbar-item-brand-logo {
+    background: url(../public/purple-no-text-scaled.png) no-repeat center center;
+    background-size: cover;
+    width: 64px;
+    height: 64px
+  }

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="purple-no-text.svg"
+   inkscape:export-filename="purple-no-text-scaled.png"
+   inkscape:export-xdpi="1728"
+   inkscape:export-ydpi="1728"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <defs
+     id="defs1337">
+    <rect
+       x="-1.5843139"
+       y="15.001473"
+       width="24.804415"
+       height="14.456865"
+       id="rect1409" />
+    <rect
+       x="-1.5843139"
+       y="15.001473"
+       width="24.804415"
+       height="14.456865"
+       id="rect1409-2" />
+  </defs>
+  <g
+     id="layer2"
+     transform="translate(3.5928116)">
+    <rect
+       style="fill:#8080ff;stroke:#000000;stroke-width:0.1"
+       id="rect410"
+       width="93.293419"
+       height="71.017967"
+       x="-20.239521"
+       y="-5.5089822" />
+  </g>
+  <g
+     id="layer1"
+     transform="matrix(1.8517782,0,0,1.8517782,-25.553346,-16.710321)">
+    <g
+       id="g2433"
+       transform="translate(0,6.148878)"
+       style="fill:#ffffff">
+      <g
+         id="g1699"
+         transform="translate(11.266906,-5.6080004)"
+         style="fill:#ffffff;stroke:#ffffff">
+        <text
+           xml:space="preserve"
+           id="text1407"
+           style="white-space:pre;shape-inside:url(#rect1409);display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.247799;stroke-dasharray:none"
+           transform="matrix(1.6188336,-1.1610953,0,1.6096062,9.5763349,-4.0107406)"><tspan
+             x="-1.5839844"
+             y="25.949917"
+             id="tspan354">P</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text1407-2"
+           style="white-space:pre;shape-inside:url(#rect1409-2);display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.247799;stroke-dasharray:none"
+           transform="matrix(1.6188336,-1.1610953,0,1.6096062,20.203555,-11.62059)"><tspan
+             x="-1.5839844"
+             y="25.949917"
+             id="tspan356">F</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.26567px;font-family:Cambria;-inkscape-font-specification:Cambria;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="21.612473"
+       y="41.242882"
+       id="text2489"><tspan
+         id="tspan2487"
+         x="21.612473"
+         y="41.242882"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none">™</tspan></text>
+  </g>
+</svg>
